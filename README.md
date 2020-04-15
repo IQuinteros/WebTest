@@ -3,7 +3,7 @@ Website Education
 >El curso de Git y GitHub ha ayudado a que esta página y este repositorio puedan ser vistos
 >- Ejemplo
 
-##En este curso se ve:
+## En este curso se ve:
 * Todos los comandos de Git
 * El flujo de trabajo en GitHub
 * Buenas prácticas
